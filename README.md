@@ -10,11 +10,12 @@ A Electron starter with Essence Template
 
 ```
 
-1) git clone -b electron --single-branch https://github.com/Evo-Forge/Essence-Templates.git electron-demo
-2) npm install
-3) npm run build-dev
+1) git clone git@github.com:bartonhammond/ElectronEssence.git
+2) cd ElectronEssence
+3) npm install
+4) npm run build-dev
 In another terminal:
-4) npm start
+5) npm start
 
 ```
-
+Make edits and use Reload (cmd-r) to reload changes
